@@ -10,6 +10,11 @@ Easy to remember reverse shell that should work on most Unix-like systems.
 
 Detects available software on the target and runs an appropriate payload.
 
+## Feat
+
+- 补充 [www.revshells.com](https://www.revshells.com) 的Payload。
+- `npm install`下载依赖，`npm start`运行环境，相关设置（如默认端口）在`package.json`修改。
+
 ## Usage
 
 ### 1. Listen for connection
